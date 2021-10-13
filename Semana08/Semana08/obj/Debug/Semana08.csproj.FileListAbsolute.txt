@@ -1,0 +1,7 @@
+C:\Users\Ivan\Downloads\XAMARIN\laboratorio08-aea-main\Semana08\bin\Debug\Semana08.exe.config
+C:\Users\Ivan\Downloads\XAMARIN\laboratorio08-aea-main\Semana08\bin\Debug\Semana08.exe
+C:\Users\Ivan\Downloads\XAMARIN\laboratorio08-aea-main\Semana08\bin\Debug\Semana08.pdb
+C:\Users\Ivan\Downloads\XAMARIN\laboratorio08-aea-main\Semana08\obj\Debug\Semana08.csproj.AssemblyReference.cache
+C:\Users\Ivan\Downloads\XAMARIN\laboratorio08-aea-main\Semana08\obj\Debug\Semana08.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Downloads\XAMARIN\laboratorio08-aea-main\Semana08\obj\Debug\Semana08.exe
+C:\Users\Ivan\Downloads\XAMARIN\laboratorio08-aea-main\Semana08\obj\Debug\Semana08.pdb
